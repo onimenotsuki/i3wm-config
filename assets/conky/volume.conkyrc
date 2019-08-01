@@ -1,0 +1,9 @@
+background no
+out_to_console yes
+out_to_x no
+update_interval 0.3
+total_run_times 0
+use_spacer none
+
+TEXT
+^bg(\#1177aa)    ^i(/home/diarifa/.i3/assets/xbm/vol.xbm)   ${exec sh /home/diarifa/.i3/assets/bin/volume.sh}   ^bg()\

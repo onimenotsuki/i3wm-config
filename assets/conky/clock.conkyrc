@@ -1,0 +1,10 @@
+background no
+out_to_console yes
+out_to_x no
+update_interval 0.3
+total_run_times 0
+use_spacer none
+
+TEXT
+
+^bg(\#1c574d)    ^i(/home/diarifa/.i3/assets/xbm/clock.xbm)   ${time %a, %d %b %R %p}    ^bg()\

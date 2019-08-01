@@ -1,0 +1,42 @@
+// vim:ts=4:sw=4:et
+{
+  "border": "pixel",
+  "current_border_width": 2,
+  "floating": "auto_off",
+  "geometry": {
+    "height": 657,
+    "width": 754,
+    "x": 0,
+    "y": 0
+  },
+  "percent": 0.70,
+  "swallows": [
+    {
+      "class": "^Emacs$",
+      "instance": "^emacs$",
+      "transient_for": "^$"
+    }
+  ],
+  "type": "con"
+}
+
+{
+  "border": "pixel",
+  "current_border_width": 2,
+  "floating": "auto_off",
+  "geometry": {
+    "height": 308,
+    "width": 720,
+    "x": 0,
+    "y": 0
+  },
+  "percent": 0.30,
+  "swallows": [
+    {
+      "class": "^URxvt$",
+      "instance": "urxvt",
+      "transient_for": "^$"
+    }
+  ],
+  "type": "con"
+}
